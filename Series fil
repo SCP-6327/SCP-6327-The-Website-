@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Series de SCP-6327</title>
+	<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<header>
+		<h1>Series</h1>
+		<nav>
+			<ul>
+				<li><a href="#home">Inicio</a></li>
+				<li><a href="#series">Series</a></li>
+				<li><a href="#about">Acerca de</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="home">
+			<h2>Bienvenido a nuestro sitio de streaming de series</h2>
+			<p>¡Mira nuestras series aquí mismo en nuestro sitio web!</p>
+		</section>
+		<section id="series">
+			<h2>Series disponibles</h2>
+			<ul>
+				<li>
+					<h3>Nombre de la serie 1</h3>
+					<p>Descripción de la serie 1</p>
+					<video controls>
+						<source src="video1.mp4" type="video/mp4">
+					</video>
+				</li>
+				<li>
+					<h3>Nombre de la serie 2</h3>
+					<p>Descripción de la serie 2</p>
+					<video controls>
+						<source src="video2.mp4" type="video/mp4">
+					</video>
+				</li>
+			</ul>
+		</section>
+		<section id="about">
+			<h2>Acerca de nuestro sitio de streaming de series</h2>
+			<p>Este sitio web ha sido creado para compartir nuestras series y llegar a más personas.</p>
+		</section>
+	</main>
+	<footer>
+		<p>Derechos reservados © 2023</p>
+	</footer>
+</body>
+</html>
